@@ -1,2 +1,7 @@
 # CIS
 GRUPO CIS _ USB
+
+Profesor:
+
+1) BETA
+2) RUBIO 
